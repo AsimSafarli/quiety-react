@@ -30,7 +30,7 @@
 }
 
 
-.process-card:hover .process-icon .text-primary {
+.process-card:hover .process-icon .text {
     color: white !important;
 }
 

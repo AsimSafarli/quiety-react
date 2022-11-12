@@ -18,7 +18,7 @@ function Process() {
           <div className="col-md-6 col-lg-3">
             <div className="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0">
             <div className="process-icon border border-light bg-custom-light rounded-custom p-3 ">
-              <span className='h2 mb-0 text-primary fw-bold'>1</span>
+              <span className='h2 mb-0 text-primary fw-bold text'>1</span>
             </div>
             <h5 className='h5'>Research</h5>
             <p class="mb-0">Uniquely pursue restore efficient for initiatives expanded.</p>
@@ -28,7 +28,7 @@ function Process() {
           <div className="col-md-6 col-lg-3">
           <div className="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0">
             <div className="process-icon border border-light bg-custom-light rounded-custom p-3 ">
-              <span className='h2 mb-0 text-primary fw-bold'>2</span>
+              <span className='h2 mb-0 text-primary fw-bold text'>2</span>
             </div>
             <h5 className='h5'>Designing</h5>
             <p class="mb-0">Restore efficient human pursue for compelling initiatives</p>
@@ -38,7 +38,7 @@ function Process() {
           <div className="col-md-6 col-lg-3">
           <div className="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0">
             <div className="process-icon border border-light bg-custom-light rounded-custom p-3 ">
-              <span className='h2 mb-0 text-primary fw-bold'>3</span>
+              <span className='h2 mb-0 text-primary fw-bold text'>3</span>
             </div>
             <h5 className='h5'>Building</h5>
             <p class="mb-0">Continually enhance pursue compelling initiatives enhance.</p>
@@ -48,7 +48,7 @@ function Process() {
           <div className="col-md-6 col-lg-3">
           <div className="process-card text-center px-4 py-lg-5 py-4 rounded-custom shadow-hover mb-3 mb-lg-0">
             <div className="process-icon border border-light bg-custom-light rounded-custom p-3 ">
-              <span className='h2 mb-0 text-primary fw-bold'>4</span>
+              <span className='h2 mb-0 text-primary fw-bold text'>4</span>
             </div>
             <h5 className='h5'>Deliver</h5>
             <p class="mb-0">Uniquely for compelling initiatives expanded interactive.</p>
