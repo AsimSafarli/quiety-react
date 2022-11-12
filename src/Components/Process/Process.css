@@ -1,0 +1,58 @@
+.dots-line {
+    position: relative;
+    top: auto;
+    right: auto;
+    z-index: 2;
+    width: 100px;
+    height: 1px;
+    padding-top: 0;
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    border-bottom: 2px dashed #175cff;
+}
+.dots-line.first {
+    position: relative;
+    margin-right: -43px;
+    margin-left: -43px;
+}
+
+.process-card {
+    position: relative;
+    display: block;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background: white;
+}
+
+.process-card:hover .process-icon {
+    background: blue;
+}
+
+
+.process-card:hover .process-icon .text-primary {
+    color: white !important;
+}
+
+.process-icon {
+    width: 80px;
+    height: 80px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    margin: 0 auto 35px;
+}
+.shadow-hover:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    z-index:3;
+    overflow: hidden;
+}

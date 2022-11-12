@@ -1,0 +1,17 @@
+.icon-box{
+        width: 55px;
+        height: 55px;
+        line-height: 55px;
+        text-align: center;
+        font-size: 22px;
+        border-radius: 5px; 
+}
+ ion-icon{
+        width: 27.5px;
+        height: 22px;
+        color: white;
+ }
+@media  (min-width: 320px) and (max-width:991px){.ptb-10{
+        padding: 60px 0;
+}
+}

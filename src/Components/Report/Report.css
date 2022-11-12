@@ -1,0 +1,34 @@
+.circle-shape-1 {
+    top: -240px;
+    width: 356px;
+    min-height: 356px;
+    min-width: 356px;
+}
+.circle-shape-3 {
+    bottom: -210px;
+    width: 300px;
+    min-height: 300px;
+    min-width: 300px;
+    z-index: -1;
+    position: absolute;
+    background-image: linear-gradient(180deg, rgba(12, 10, 116, 1), rgba(11, 16, 85, 0.2));
+}
+@media (min-width: 320px) and (max-width: 991px){
+.circle-shape-2,.circle-shape-1,.circle-shape-3 {
+    display: none;
+}
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.img{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -2;
+}
+.background{
+ background-image: linear-gradient(180deg, rgba(12, 10, 116, 1), rgba(11, 16, 85, 1));
+ z-index: -3
+ ;
+}

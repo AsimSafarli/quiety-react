@@ -1,0 +1,5 @@
+.bg{
+    background-image: linear-gradient(180deg, rgba(12, 10, 116, 1), rgb(5, 8, 59));
+    z-index: -3
+    ;
+}
